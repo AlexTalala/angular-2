@@ -1,0 +1,9 @@
+node_modules
+.tmp
+.idea/
+bower_components
+test/bower_components
+psd
+dist/
+/**/Thumbs.db
+/**/*.DS_Store
